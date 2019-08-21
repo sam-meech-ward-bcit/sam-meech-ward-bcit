@@ -1,3 +1,3 @@
 # BCIT
 
-Hello BCIT
+Hello BCIT!
